@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,3 +9,10 @@
 	
 </body>
 </html>
+=======
+<php
+echo "Hello world!"
+
+
+?>
+>>>>>>> test
